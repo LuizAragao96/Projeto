@@ -1,0 +1,5 @@
+
+/build/
+/nbproject/private/
+/lib/mysql-connector-java-*.jar
+*.class
